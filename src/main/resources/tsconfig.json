@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es2015",
+      "es5",
+      "es6"
+    ],
+    "module": "amd",
+    "target": "es5",
+    "sourceMap": true
+  }
+}
